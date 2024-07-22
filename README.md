@@ -9,3 +9,7 @@ Deploy dos contratos na testnet Sepolia ETH utilizando Alchemy:
 - https://sepolia.etherscan.io/address/0x7380EE2B67e1bf54141bCc3C7417f0B4aa21e5e5
 
 - https://sepolia.etherscan.io/address/0x4d08b9b0aE98427F89a4f584601Da342bFD9BC64
+
+Sensor feeds
+
+- https://sepolia.etherscan.io/address/0x1f48d0F3e7f822d6625052af03356A6822BD4e35
